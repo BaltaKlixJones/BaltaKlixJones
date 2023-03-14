@@ -7,7 +7,7 @@ Desde chcio me interesó el mundo de la programación. Mi primer lenguaje fue Py
 ## 🧑🏻‍💻¿Qué hago?
 Me dedico a realizar proyecto que me permiten avanzar en mi formación como desarrollador Full Stack. Me gusta investigar mucho, para así, encontrar la solución al código.
 
-## 🛠🏻‍💻 Tecnologías
+## 🛠  Tecnologías
  · JavaScript
  · React.js
  · Redux.js
