@@ -16,8 +16,12 @@ Me dedico a realizar proyecto que me permiten avanzar en mi formación como desa
  · Sequelize
  · Git
 
-Claramente inculyendo HTML y CSS
+Claramente inculyendo HTML y CSS.
+
 Entre otras herramientas, también tengo conocimiento en Trello, Scrum y metodologías Agile 
 
 # No dudes en contactarme !
 Juntos podemos realizar un gran proyecto para cambiarle la vida a miles de personas
+
+Linkedin: https://www.linkedin.com/in/baltasar-klix-jones-180b38256/ 
+Correo: baltakj@gmail.com 📩
