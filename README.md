@@ -12,6 +12,8 @@ Me dedico a realizar proyecto que me permiten avanzar en mi formación como desa
  
  · React.js
  
+ · Redux.js
+ 
  · Node.js
  
  · Express.js 
