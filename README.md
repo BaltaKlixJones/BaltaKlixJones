@@ -15,6 +15,7 @@ Me dedico a realizar proyecto que me permiten avanzar en mi formación como desa
  · Express.js 
  · Mongodb
  · PostgreSQL
+ · Docker
  · Sequelize
  · Git
 
